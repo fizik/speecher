@@ -1,0 +1,14 @@
+requests
+pydantic
+speechrecognition
+loguru
+pydantic[dotenv]
+python-dotenv
+google-api-python-client==1.7.11
+google-auth==1.6.3
+google-auth-httplib2==0.0.3
+google-auth-oauthlib==0.4.1
+pytube
+pydub
+nltk
+pymorphy2
